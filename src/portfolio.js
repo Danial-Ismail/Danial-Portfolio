@@ -122,10 +122,10 @@ const educationInfo = {
       desc: "Some of the key courses I undertook include:",
       descBullets: [
         "Calculus",
+        "Mathematical Statistics",
         "Numerical Analysis",
         "Applied Algebra",
         "Fluid Dynamics",
-        "Mathematical Statistics"
       ]
     },
   ]
